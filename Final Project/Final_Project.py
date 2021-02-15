@@ -1,3 +1,3 @@
 import pandas as pd
 
-data = pd.read_csv("project.csv")
+data = pd.read_csv("proje.csv")as
